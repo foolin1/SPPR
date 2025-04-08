@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\roofe\\source\\repos\\WEB_253503_Volodin\\WEB_253503_Volodin.API\\wwwroot\\Images\\default-profile-picture.jpg",
+      "PackagePath": "staticwebassets\\Images\\default-profile-picture.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roofe\\source\\repos\\WEB_253503_Volodin\\WEB_253503_Volodin.API\\wwwroot\\Images\\dota.jpg",
+      "PackagePath": "staticwebassets\\Images\\dota.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roofe\\source\\repos\\WEB_253503_Volodin\\WEB_253503_Volodin.API\\wwwroot\\Images\\factorio.jpg",
+      "PackagePath": "staticwebassets\\Images\\factorio.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roofe\\source\\repos\\WEB_253503_Volodin\\WEB_253503_Volodin.API\\wwwroot\\Images\\fifa24.jpg",
+      "PackagePath": "staticwebassets\\Images\\fifa24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roofe\\source\\repos\\WEB_253503_Volodin\\WEB_253503_Volodin.API\\wwwroot\\Images\\fs23.jpg",
+      "PackagePath": "staticwebassets\\Images\\fs23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roofe\\source\\repos\\WEB_253503_Volodin\\WEB_253503_Volodin.API\\wwwroot\\Images\\starcraft2.jpg",
+      "PackagePath": "staticwebassets\\Images\\starcraft2.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WEB_253503_Volodin.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WEB_253503_Volodin.API.props",
+      "PackagePath": "build\\WEB_253503_Volodin.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WEB_253503_Volodin.API.props",
+      "PackagePath": "buildMultiTargeting\\WEB_253503_Volodin.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WEB_253503_Volodin.API.props",
+      "PackagePath": "buildTransitive\\WEB_253503_Volodin.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

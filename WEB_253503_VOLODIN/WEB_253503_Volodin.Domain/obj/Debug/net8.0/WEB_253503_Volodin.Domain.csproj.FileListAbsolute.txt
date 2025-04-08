@@ -1,0 +1,11 @@
+C:\Users\roofe\source\repos\WEB_253503_Volodin\WEB_253503_Volodin.Domain\bin\Debug\net8.0\WEB_253503_Volodin.Domain.deps.json
+C:\Users\roofe\source\repos\WEB_253503_Volodin\WEB_253503_Volodin.Domain\bin\Debug\net8.0\WEB_253503_Volodin.Domain.dll
+C:\Users\roofe\source\repos\WEB_253503_Volodin\WEB_253503_Volodin.Domain\bin\Debug\net8.0\WEB_253503_Volodin.Domain.pdb
+C:\Users\roofe\source\repos\WEB_253503_Volodin\WEB_253503_Volodin.Domain\obj\Debug\net8.0\WEB_253503_Volodin.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roofe\source\repos\WEB_253503_Volodin\WEB_253503_Volodin.Domain\obj\Debug\net8.0\WEB_253503_Volodin.Domain.AssemblyInfoInputs.cache
+C:\Users\roofe\source\repos\WEB_253503_Volodin\WEB_253503_Volodin.Domain\obj\Debug\net8.0\WEB_253503_Volodin.Domain.AssemblyInfo.cs
+C:\Users\roofe\source\repos\WEB_253503_Volodin\WEB_253503_Volodin.Domain\obj\Debug\net8.0\WEB_253503_Volodin.Domain.csproj.CoreCompileInputs.cache
+C:\Users\roofe\source\repos\WEB_253503_Volodin\WEB_253503_Volodin.Domain\obj\Debug\net8.0\WEB_253503_Volodin.Domain.dll
+C:\Users\roofe\source\repos\WEB_253503_Volodin\WEB_253503_Volodin.Domain\obj\Debug\net8.0\refint\WEB_253503_Volodin.Domain.dll
+C:\Users\roofe\source\repos\WEB_253503_Volodin\WEB_253503_Volodin.Domain\obj\Debug\net8.0\WEB_253503_Volodin.Domain.pdb
+C:\Users\roofe\source\repos\WEB_253503_Volodin\WEB_253503_Volodin.Domain\obj\Debug\net8.0\ref\WEB_253503_Volodin.Domain.dll

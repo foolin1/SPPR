@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roofe\\source\\repos\\WEB_253503_VOLODIN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF922D7-D55E-4E9D-A2B9-DA722CC60F74}|WEB_253503_VOLODIN.UI\\WEB_253503_VOLODIN.UI.csproj|c:\\users\\roofe\\source\\repos\\web_253503_volodin\\web_253503_volodin.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EF922D7-D55E-4E9D-A2B9-DA722CC60F74}|WEB_253503_VOLODIN.UI\\WEB_253503_VOLODIN.UI.csproj|solutionrelative:web_253503_volodin.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\roofe\\source\\repos\\WEB_253503_VOLODIN\\WEB_253503_VOLODIN.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WEB_253503_VOLODIN.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\roofe\\source\\repos\\WEB_253503_VOLODIN\\WEB_253503_VOLODIN.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WEB_253503_VOLODIN.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T20:46:27.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

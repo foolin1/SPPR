@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roofe\\source\\repos\\WEB_253503_Volodin.UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99079102-1334-4E7A-83CD-468AAB82D7BD}|..\\WEB_253503_Volodin\\WEB_253503_Volodin.API\\WEB_253503_Volodin.API.csproj|c:\\users\\roofe\\source\\repos\\web_253503_volodin\\web_253503_volodin.api\\migrations\\20241202181841_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99079102-1334-4E7A-83CD-468AAB82D7BD}|..\\WEB_253503_Volodin\\WEB_253503_Volodin.API\\WEB_253503_Volodin.API.csproj|c:\\users\\roofe\\source\\repos\\web_253503_volodin\\web_253503_volodin.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99079102-1334-4E7A-83CD-468AAB82D7BD}|..\\WEB_253503_Volodin\\WEB_253503_Volodin.API\\WEB_253503_Volodin.API.csproj|c:\\users\\roofe\\source\\repos\\web_253503_volodin\\web_253503_volodin.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99079102-1334-4E7A-83CD-468AAB82D7BD}|..\\WEB_253503_Volodin\\WEB_253503_Volodin.API\\WEB_253503_Volodin.API.csproj|c:\\users\\roofe\\source\\repos\\web_253503_volodin\\web_253503_volodin.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99079102-1334-4E7A-83CD-468AAB82D7BD}|..\\WEB_253503_Volodin\\WEB_253503_Volodin.API\\WEB_253503_Volodin.API.csproj|c:\\users\\roofe\\source\\repos\\web_253503_volodin\\web_253503_volodin.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99079102-1334-4E7A-83CD-468AAB82D7BD}|..\\WEB_253503_Volodin\\WEB_253503_Volodin.API\\WEB_253503_Volodin.API.csproj|c:\\users\\roofe\\source\\repos\\web_253503_volodin\\web_253503_volodin.api\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3268F14E-8502-44F2-82DD-9723AA32B695}|WEB_253503_Volodin.UI\\WEB_253503_Volodin.UI.csproj|c:\\users\\roofe\\source\\repos\\web_253503_volodin.ui\\web_253503_volodin.ui\\services\\gameservice\\apigameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3268F14E-8502-44F2-82DD-9723AA32B695}|WEB_253503_Volodin.UI\\WEB_253503_Volodin.UI.csproj|solutionrelative:web_253503_volodin.ui\\services\\gameservice\\apigameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3268F14E-8502-44F2-82DD-9723AA32B695}|WEB_253503_Volodin.UI\\WEB_253503_Volodin.UI.csproj|c:\\users\\roofe\\source\\repos\\web_253503_volodin.ui\\web_253503_volodin.ui\\models\\uridata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3268F14E-8502-44F2-82DD-9723AA32B695}|WEB_253503_Volodin.UI\\WEB_253503_Volodin.UI.csproj|solutionrelative:web_253503_volodin.ui\\models\\uridata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3268F14E-8502-44F2-82DD-9723AA32B695}|WEB_253503_Volodin.UI\\WEB_253503_Volodin.UI.csproj|c:\\users\\roofe\\source\\repos\\web_253503_volodin.ui\\web_253503_volodin.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3268F14E-8502-44F2-82DD-9723AA32B695}|WEB_253503_Volodin.UI\\WEB_253503_Volodin.UI.csproj|solutionrelative:web_253503_volodin.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3268F14E-8502-44F2-82DD-9723AA32B695}|WEB_253503_Volodin.UI\\WEB_253503_Volodin.UI.csproj|c:\\users\\roofe\\source\\repos\\web_253503_volodin.ui\\web_253503_volodin.ui\\services\\gameservice\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3268F14E-8502-44F2-82DD-9723AA32B695}|WEB_253503_Volodin.UI\\WEB_253503_Volodin.UI.csproj|solutionrelative:web_253503_volodin.ui\\services\\gameservice\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3268F14E-8502-44F2-82DD-9723AA32B695}|WEB_253503_Volodin.UI\\WEB_253503_Volodin.UI.csproj|c:\\users\\roofe\\source\\repos\\web_253503_volodin.ui\\web_253503_volodin.ui\\services\\categoryservice\\apicategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3268F14E-8502-44F2-82DD-9723AA32B695}|WEB_253503_Volodin.UI\\WEB_253503_Volodin.UI.csproj|solutionrelative:web_253503_volodin.ui\\services\\categoryservice\\apicategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241202181841_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\roofe\\source\\repos\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\Migrations\\20241202181841_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\Migrations\\20241202181841_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\roofe\\source\\repos\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\Migrations\\20241202181841_InitialCreate.cs",
+              "RelativeToolTip": "..\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\Migrations\\20241202181841_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:18:42.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\roofe\\source\\repos\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\roofe\\source\\repos\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:17:08.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\roofe\\source\\repos\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\roofe\\source\\repos\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\appsettings.json",
+              "RelativeToolTip": "..\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T18:13:14.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\roofe\\source\\repos\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\Program.cs",
+              "ToolTip": "C:\\Users\\roofe\\source\\repos\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\Program.cs",
+              "RelativeToolTip": "..\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:10:09.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\roofe\\source\\repos\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\Data\\DBInitializer.cs",
+              "RelativeDocumentMoniker": "..\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\Data\\DBInitializer.cs",
+              "ToolTip": "C:\\Users\\roofe\\source\\repos\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\Data\\DBInitializer.cs",
+              "RelativeToolTip": "..\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\Data\\DBInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:09:34.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\roofe\\source\\repos\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "..\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\roofe\\source\\repos\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "..\\WEB_253503_VOLODIN\\WEB_253503_Volodin.API\\Controllers\\GamesController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:04:45.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UriData.cs",
+              "DocumentMoniker": "C:\\Users\\roofe\\source\\repos\\WEB_253503_Volodin.UI\\WEB_253503_Volodin.UI\\Models\\UriData.cs",
+              "RelativeDocumentMoniker": "WEB_253503_Volodin.UI\\Models\\UriData.cs",
+              "ToolTip": "C:\\Users\\roofe\\source\\repos\\WEB_253503_Volodin.UI\\WEB_253503_Volodin.UI\\Models\\UriData.cs",
+              "RelativeToolTip": "WEB_253503_Volodin.UI\\Models\\UriData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:02:46.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\roofe\\source\\repos\\WEB_253503_Volodin.UI\\WEB_253503_Volodin.UI\\Program.cs",
+              "RelativeDocumentMoniker": "WEB_253503_Volodin.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\roofe\\source\\repos\\WEB_253503_Volodin.UI\\WEB_253503_Volodin.UI\\Program.cs",
+              "RelativeToolTip": "WEB_253503_Volodin.UI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:01:19.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "C:\\Users\\roofe\\source\\repos\\WEB_253503_Volodin.UI\\WEB_253503_Volodin.UI\\Services\\GameService\\IGameService.cs",
+              "RelativeDocumentMoniker": "WEB_253503_Volodin.UI\\Services\\GameService\\IGameService.cs",
+              "ToolTip": "C:\\Users\\roofe\\source\\repos\\WEB_253503_Volodin.UI\\WEB_253503_Volodin.UI\\Services\\GameService\\IGameService.cs",
+              "RelativeToolTip": "WEB_253503_Volodin.UI\\Services\\GameService\\IGameService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:54:38.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiGameService.cs",
+              "DocumentMoniker": "C:\\Users\\roofe\\source\\repos\\WEB_253503_Volodin.UI\\WEB_253503_Volodin.UI\\Services\\GameService\\ApiGameService.cs",
+              "RelativeDocumentMoniker": "WEB_253503_Volodin.UI\\Services\\GameService\\ApiGameService.cs",
+              "ToolTip": "C:\\Users\\roofe\\source\\repos\\WEB_253503_Volodin.UI\\WEB_253503_Volodin.UI\\Services\\GameService\\ApiGameService.cs",
+              "RelativeToolTip": "WEB_253503_Volodin.UI\\Services\\GameService\\ApiGameService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:53:25.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\roofe\\source\\repos\\WEB_253503_Volodin.UI\\WEB_253503_Volodin.UI\\Services\\CategoryService\\ApiCategoryService.cs",
+              "RelativeDocumentMoniker": "WEB_253503_Volodin.UI\\Services\\CategoryService\\ApiCategoryService.cs",
+              "ToolTip": "C:\\Users\\roofe\\source\\repos\\WEB_253503_Volodin.UI\\WEB_253503_Volodin.UI\\Services\\CategoryService\\ApiCategoryService.cs",
+              "RelativeToolTip": "WEB_253503_Volodin.UI\\Services\\CategoryService\\ApiCategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:52:12.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
